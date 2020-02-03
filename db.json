@@ -19,14 +19,14 @@
     {"name":"One Drive","link":"one-drive"},
     {"name":"Outlook","link":"outlook"},
     {"name":"Share Point","link":"share-point"},
-    {name:"Yammer","link":"yammer"},
+    {"name":"Yammer","link":"yammer"},
   ]
   },
     {
   "id":3,
   "order":3,
   "name":"Spółki",
-  links:[
+  "links":[
     {"name":"Lorem ipsum","link":"lorem-ipsum"}
   ]
   },
