@@ -1,24 +1,24 @@
-[
+{links:[
   {
   "id":1,
   "order":1,
   "name":"Fora dyskusyjne",
-  links:[
-    {name:"Forum Budownictwa","link":"faake1"},
-    {name:"Forum instalacji","link":"faake2"},
-    {name:"Forum Nieruchomości","link":"faake3"},
-    {name:"Forum Nowości","link":"faake1"},
+  "links":[
+    {"name":"Forum Budownictwa","link":"faake1"},
+    {"name":"Forum instalacji","link":"faake2"},
+    {"name":"Forum Nieruchomości","link":"faake3"},
+    {"name":"Forum Nowości","link":"faake1"},
   ]
   },
   {
   "id":2,
   "order":2,
   "name":"Zasoby 0365",
-  links:[
-    {name:"Office Apps","link":"office"},
-    {name:"One Drive","link":"one-drive"},
-    {name:"Outlook","link":"outlook"},
-    {name:"Share Point","link":"share-point"},
+  "links":[
+    {"name":"Office Apps","link":"office"},
+    {"name":"One Drive","link":"one-drive"},
+    {"name":"Outlook","link":"outlook"},
+    {"name":"Share Point","link":"share-point"},
     {name:"Yammer","link":"yammer"},
   ]
   },
@@ -27,15 +27,16 @@
   "order":3,
   "name":"Spółki",
   links:[
-    {name:"Lorem ipsum","link":"lorem-ipsum"}
+    {"name":"Lorem ipsum","link":"lorem-ipsum"}
   ]
   },
 {
   "id":4,
   "order":4,
   "name":"Ważne",
-  links:[
-    {name:"Ogłoszenia","link":"ogłoszenia"}
+  "links":[
+    {"name":"Ogłoszenia","link":"ogłoszenia"}
   ]
   },
 ]
+}
