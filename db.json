@@ -26,14 +26,28 @@
     {
     "id":3,
     "order":3,
+    "name":"Projekty",
+    "links":[
+      {"name":"Biura","link":"biura"},
+      {"name":"Handel","link":"handel"},
+      {"name":"Hotele","link":"hotele"},
+      {"name":"Kultura i oświata","link":"kultura-i-oswiata"},
+      {"name":"Mieszkania","link":"mieszkania"},
+      {"name":"Przemysł","link":"przemysl"},
+      {"name":"Sport","link":"sport"},
+    ]
+    },
+    {
+    "id":4,
+    "order":4,
     "name":"Spółki",
     "links":[
       {"name":"Lorem ipsum","link":"lorem-ipsum"}
     ]
     },
     {
-      "id":4,
-      "order":4,
+      "id":5,
+      "order":5,
       "name":"Ważne",
       "links":[
         {"name":"Ogłoszenia","link":"ogłoszenia"}
