@@ -5,10 +5,10 @@
     "order":1,
     "name":"Fora dyskusyjne",
     "links":[
-      {"name":"Forum Budownictwa","link":"faake1"},
-      {"name":"Forum instalacji","link":"faake2"},
-      {"name":"Forum Nieruchomości","link":"faake3"},
-      {"name":"Forum Nowości","link":"faake1"}
+      {id:"1","name":"Forum Budownictwa","link":"faake1"},
+      {id:"2","name":"Forum instalacji","link":"faake2"},
+      {id:"3","name":"Forum Nieruchomości","link":"faake3"},
+      {id:"4","name":"Forum Nowości","link":"faake1"}
     ]
     },
     {
@@ -16,11 +16,11 @@
     "order":2,
     "name":"Zasoby 0365",
     "links":[
-      {"name":"Office Apps","link":"office"},
-      {"name":"One Drive","link":"one-drive"},
-      {"name":"Outlook","link":"outlook"},
-      {"name":"Share Point","link":"share-point"},
-      {"name":"Yammer","link":"yammer"}
+      {id:"1","name":"Office Apps","link":"office"},
+      {id:"2","name":"One Drive","link":"one-drive"},
+      {id:"3","name":"Outlook","link":"outlook"},
+      {id:"4","name":"Share Point","link":"share-point"},
+      {id:"5","name":"Yammer","link":"yammer"}
     ]
     },
     {
@@ -28,13 +28,13 @@
     "order":3,
     "name":"Projekty",
     "links":[
-      {"name":"Biura","link":"biura"},
-      {"name":"Handel","link":"handel"},
-      {"name":"Hotele","link":"hotele"},
-      {"name":"Kultura i oświata","link":"kultura-i-oswiata"},
-      {"name":"Mieszkania","link":"mieszkania"},
-      {"name":"Przemysł","link":"przemysl"},
-      {"name":"Sport","link":"sport"}
+      {id:"1","name":"Biura","link":"biura"},
+      {id:"2","name":"Handel","link":"handel"},
+      {id:"3","name":"Hotele","link":"hotele"},
+      {id:"4","name":"Kultura i oświata","link":"kultura-i-oswiata"},
+      {id:"5","name":"Mieszkania","link":"mieszkania"},
+      {id:"6","name":"Przemysł","link":"przemysl"},
+      {id:"7","name":"Sport","link":"sport"}
     ]
     },
     {
@@ -42,7 +42,7 @@
     "order":4,
     "name":"Spółki",
     "links":[
-      {"name":"Lorem iipsum","link":"lorem-ipsum"}
+      {id:"1","name":"Lorem ipsum","link":"lorem-ipsum"}
     ]
     },
     {
@@ -50,7 +50,7 @@
       "order":5,
       "name":"Ważne",
       "links":[
-        {"name":"Ogłoszenia","link":"ogłoszenia"}
+        {id:"1","name":"Ogłoszenia","link":"ogłoszenia"}
       ]
     }
   ]
